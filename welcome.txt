@@ -1,1 +1,41 @@
 Welcome to AHL Lab Care Portal
+
+Overview
+--------
+The AHL Lab Care Portal is a comprehensive platform designed to streamline laboratory operations and enhance animal health management. This portal provides tools and resources for veterinary professionals, laboratory staff, and animal care administrators.
+
+Key Features
+-----------
+- Patient Management: Track and manage animal patient records with detailed health histories
+- Laboratory Testing: Order, track, and view results of various laboratory tests
+- Appointment Scheduling: Efficient scheduling system for consultations and procedures
+- Medical Records: Secure storage and access to comprehensive medical documentation
+- Reporting: Generate detailed reports for patient care and analysis
+- Notifications: Real-time alerts for test results, appointments, and urgent matters
+
+Getting Started
+---------------
+1. Log in with your credentials
+2. Complete your profile setup
+3. Explore the dashboard to familiarize yourself with the interface
+4. Review the help documentation for detailed feature guides
+5. Contact support if you need assistance
+
+System Requirements
+-------------------
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Stable internet connection
+- Latest version recommended for optimal performance
+
+Support & Resources
+-------------------
+- Help Documentation: Access our comprehensive guides and tutorials
+- Contact Support: Email support@ahllab.com or call our helpline
+- FAQ: Common questions and troubleshooting tips
+- Training Resources: Video tutorials and webinars
+
+Data Security & Privacy
+------------------------
+Your data is protected with enterprise-grade encryption and regular security audits. We comply with all relevant healthcare and data protection regulations.
+
+For more information, visit our website or contact the support team.
