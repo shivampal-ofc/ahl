@@ -61,4 +61,4 @@ AHL Lab Care Portal is a web-based application designed to streamline laboratory
 This project is licensed under the MIT License.
 
 ## Contact 📧💬📞
-For queries, reach out to [your.email@example.com](mailto:your.email@example.com).
+For queries, reach out to [shivampal.codes@gmail.com](mailto:shivampal.codes@gmail.com).
