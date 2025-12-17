@@ -39,3 +39,5 @@ Data Security & Privacy
 Your data is protected with enterprise-grade encryption and regular security audits. We comply with all relevant healthcare and data protection regulations.
 
 For more information, visit our website or contact the support team.
+
+Last Updated: 2025/12/17
